@@ -1,0 +1,21 @@
+body
+{
+  background-image: url("glitter.webp");
+  background-position: center;
+  background-size: cover;
+}
+
+h3
+{
+  font-size: 25px !important;
+}
+
+canvas 
+{
+    border:1px solid black;
+}
+
+#button2
+{
+  background-color: hotpink;
+}
